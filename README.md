@@ -41,7 +41,7 @@ I built the app using laravel and vuejs, made a simple backend and also used api
 
 ```bash or terminal
   # Cloning app
-  git clone  https://github.com/AbderrahmaneAmerhhi/car_rental_app
+  git clone  https://github.com/MJTHENU/car_rental.git
 
   # install composer
    composer install
