@@ -47,7 +47,10 @@ I built the app using laravel and vuejs, made a simple backend and also used api
    composer install
    php artisan config:clear
    php artisan config:cache
+env file create
   # copy .env.example => rename it to .env
+        or
+  #cp .env.example .env
 
   # generate App key
    php artisan key:generate
